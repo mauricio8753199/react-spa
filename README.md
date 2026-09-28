@@ -1,7 +1,7 @@
-Versão do node: 18.12.1
-Comando utilizado para a criação do projeto: npx create-react-app my-app
-Comando para instalar dependencias: npm install
-Comando para rodar o projeto: npm run start
+Versão do node: 18.12.1  
+Comando utilizado para a criação do projeto: npx create-react-app my-app  
+Comando para instalar dependencias: npm install  
+Comando para rodar o projeto: npm run start  
 
 package.json: Gerenciamento de dependências, versão, nome e comandos do projeto.
 O arquivo src/index.js renderiza o componente App.js que é o componente principal do sistema. O componente é renderizado dentro do HTML que está em public/index.html.
