@@ -3,7 +3,7 @@ Node: 18.12.1
 Npm: 8.19.2
 
 # Comandos Utilizados    
-Comando utilizado para a criação do projeto: npx create-react-app react-spa
+Comando utilizado para a criação do projeto: npx create-react-app react-spa  
 Comando para instalar dependencias: npm install  
 Comando para rodar o projeto: npm run start  
 
